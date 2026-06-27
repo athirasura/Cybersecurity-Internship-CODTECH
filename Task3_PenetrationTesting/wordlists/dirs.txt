@@ -1,0 +1,8 @@
+admin
+login
+index
+robots.txt
+dashboard
+uploads
+config
+phpmyadmin
